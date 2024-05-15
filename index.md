@@ -6,4 +6,4 @@
 
 Heading styles
 
-<img src="https://octodex.github.com/images/yaktocat.png" alt-text="Image of Yaktocat"/>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
